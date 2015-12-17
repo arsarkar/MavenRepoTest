@@ -5,4 +5,4 @@ set /p artifactID= Enter Artifact ID:
 set /p version= Enter Version:
 set /p inputFile= Enter path for the jar to install:
 mvn install:install-file -DgroupId=%groupID% -DartifactId=%artifactID% -Dversion=%version% -Dpackaging=jar -Dfile=%inputFile% -DlocalRepositoryPath=%~dp0
-' & pause'
+Pause
