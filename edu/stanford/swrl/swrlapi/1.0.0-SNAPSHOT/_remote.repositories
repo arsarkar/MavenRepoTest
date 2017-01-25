@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Jan 05 21:44:57 EST 2016
+swrlapi-1.0.0-20150523.000559-24.jar>sonatype-nexus-snapshots=
+swrlapi-1.0.0-SNAPSHOT.jar>=
+swrlapi-1.0.0-20150523.000559-24.pom>sonatype-nexus-snapshots=
+swrlapi-1.0.0-SNAPSHOT.pom>=

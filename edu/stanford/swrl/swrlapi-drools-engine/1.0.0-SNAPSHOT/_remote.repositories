@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Jan 05 21:47:12 EST 2016
+swrlapi-drools-engine-1.0.0-SNAPSHOT.jar>=
+swrlapi-drools-engine-1.0.0-SNAPSHOT.pom>=
+swrlapi-drools-engine-1.0.0-20150521.235949-2.jar>sonatype-nexus-snapshots=
+swrlapi-drools-engine-1.0.0-20150521.235949-2.pom>sonatype-nexus-snapshots=
